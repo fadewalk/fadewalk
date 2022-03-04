@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadewalk)](https://github.com/fadewalk/github-readme-stats)
 
 <!--
 **fadewalk/fadewalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
